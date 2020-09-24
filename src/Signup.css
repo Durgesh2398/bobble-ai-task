@@ -1,0 +1,19 @@
+.signup_form{
+    margin: 10px;
+    padding: 10px;    
+    border-radius: 6px 6px 6px 6px;
+
+    box-shadow: 0px 0px 20px 6px rgba(194,190,194,1);
+  
+}
+
+.loginButtonsfacebook{
+    padding: 20px;
+    display: inline-block;
+}
+
+.loginButtonsgoogle{
+    padding: 20px;
+    display: inline-block;
+}
+
